@@ -5,7 +5,8 @@ I am a self-taught software developer utilizing the MERN Stack. I build dynamic,
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxxx777&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ## 🌱 I’m currently learning
-- Postgresql
+- Python
+- Bash Scripting
 - AWS Cloud services
 
 ## 💞️ I’m looking to collaborate on
